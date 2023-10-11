@@ -1,3 +1,3 @@
 # chatroom
-chat room resembled QQ
+sequel assignment based on mysql
 # 啦啦啦
