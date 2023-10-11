@@ -1,3 +1,3 @@
 # chatroom
 sequel assignment based on mysql
-# 啦啦啦
+make sure you have idea to proceed on the FXML-based swing programming 🙃
